@@ -1,0 +1,5 @@
+Program kayıt yapmazsa şayet 
+
+ 1-programı yönetici olarak Kurun ve Yönetici olarak çalıştır.  
+
+  2-programın (.exe) masaüstüne kısayolunu alın ve yönetici olarak çalıştır.

@@ -1,0 +1,10 @@
+D:\VB\Emlak Projesi\bin\Debug\Emlak Projesi.exe.config
+D:\VB\Emlak Projesi\bin\Debug\Emlak Projesi.exe
+D:\VB\Emlak Projesi\bin\Debug\Emlak Projesi.pdb
+D:\VB\Emlak Projesi\obj\Debug\Emlak_Projesi.Form1.resources
+D:\VB\Emlak Projesi\obj\Debug\Emlak_Projesi.Properties.Resources.resources
+D:\VB\Emlak Projesi\obj\Debug\Emlak Projesi.csproj.GenerateResource.cache
+D:\VB\Emlak Projesi\obj\Debug\Emlak Projesi.csproj.CoreCompileInputs.cache
+D:\VB\Emlak Projesi\obj\Debug\Emlak Projesi.exe
+D:\VB\Emlak Projesi\obj\Debug\Emlak Projesi.pdb
+D:\VB\Emlak Projesi\obj\Debug\Emlak Projesi.csprojAssemblyReference.cache
